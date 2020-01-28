@@ -1,4 +1,4 @@
-Theme: Dracula
+Theme: das Dracula Theme von Dracula Official ist sehr angenehm - das ist nicht das offizielle von Jetbrains
 # alte Custom Font: Consolas
 NEUE SCHRIFT: jetbrains mono # https://www.jetbrains.com/lp/mono/
 Size: 12
