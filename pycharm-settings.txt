@@ -3,3 +3,17 @@ Theme: das Dracula Theme von Dracula Official ist sehr angenehm - das ist nicht 
 NEUE SCHRIFT: jetbrains mono # https://www.jetbrains.com/lp/mono/
 Size: 12
 
+
+Django Shell autoreload extension für autoreloading bei Codeänderungen:
+https://stackoverflow.com/a/13961334/2952486
+
+das oben habe ich noch nicht ausprobiert, es handelt sich um folgende zwei Befehle, die man bei iypthon eingibt:
+%load_ext autoreload
+%autoreload 2
+
+die Stackoverflow antwort von oben zeigt, wie man diese Befehle automatisch beim ipython Start laden kann
+
+
+große Objekte inspizieren -> Object schnell serialisieren:
+with open('spam.txt', 'w') as f: f.write(<OBJECT>)
+
