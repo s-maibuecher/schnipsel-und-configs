@@ -17,3 +17,8 @@ die Stackoverflow antwort von oben zeigt, wie man diese Befehle automatisch beim
 große Objekte inspizieren -> Object schnell serialisieren:
 with open('spam.txt', 'w') as f: f.write(<OBJECT>)
 
+
+Tests aufteilen und zusammen laufen lassen:
+https://stackoverflow.com/a/20932450/2952486
+
+
