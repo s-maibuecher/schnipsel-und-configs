@@ -1,5 +1,5 @@
 Ich werde das Functional Testing wie im Buch "Test-driven Delopment with Pyhton" von Harry Percival aufziehen, Kapitel:
 "Unit Tests, and How They Differ from Functional Tests".
-Das bedeutet, dass das Functional Testing die Code Spezifikation ersetzt. Man schreibt die User-Story hier nieder und
-definiert die passenden Tests dazu, die zunächst failen (expected fail) und nach der korrekten Implementierung
-ohne Fehler durchlaufen.
+Das bedeutet, dass das Functional Testing die Code Spezifikation ersetzt. Man schreibt die User-Story nieder und
+definiert die passenden Tests dazu, die zunächst failen (expected fail). Dann überlegt man sich die programmatische Umsetzung und schreibt dafür erst die Unittests. Diese bringt man durch die Programmierung zum laufen und dadurch auch zwangsläufig auch den Functional Test zum funktionieren.
+ 
